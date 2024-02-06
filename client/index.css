@@ -1,0 +1,77 @@
+body {
+    background-color: 
+    #BDC3CB;
+
+}
+
+h3 {
+  text-decoration-line: underline;
+}
+
+.pdf-button{
+  margin-left: 45%; 
+  margin-top: 10px; 
+}
+
+
+.container {
+
+    overflow: hidden;
+    background-color:#EDE7DC;
+    color:rgb(54, 54, 55);
+    margin-top:40px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom:40px; 
+    padding-bottom: 40px;
+    border-radius: 10px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top: 20px;
+    text-align: left;
+  }
+
+  .big-container {
+
+    overflow: hidden;
+    background-color:#DCD2CC;
+    color:rgb(54, 54, 55);
+    margin-top:40px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom:40px; 
+    padding-bottom: 40px;
+    border-radius: 10px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top: 20px;
+    text-align: left;
+  }
+
+  .header{
+    background-color:#CCAFA5;
+    color: rgb(54, 54, 55);
+    padding: 20px;
+    text-align: center; 
+    width:auto;
+    border-radius: 10px; 
+    margin-top: 20px; 
+    margin-left: 10px; 
+    margin-right: 10px; 
+
+  }
+
+  .spaced-text {
+    display: flex;
+    margin-left: 38%; 
+  }
+
+  .spaced-text div {
+    padding-right: 30px; 
+    padding-top: 10px; 
+  }
+
+  a {
+    color: inherit; /* Use the color of the parent element */
+    text-decoration: none; /* Remove underline */
+  }
