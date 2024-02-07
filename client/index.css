@@ -1,8 +1,14 @@
+
+
 body {
-    background-color: 
-    #BDC3CB;
+    background-color: #4A4E69;
 
 }
+
+p {
+  max-width: 100ch; /* 100 characters per line */
+
+} 
 
 h3 {
   text-decoration-line: underline;
@@ -17,7 +23,7 @@ h3 {
 .container {
 
     overflow: hidden;
-    background-color:#EDE7DC;
+    background-color:#9A8C98;
     color:rgb(54, 54, 55);
     margin-top:40px;
     margin-left: 1%;
@@ -26,15 +32,16 @@ h3 {
     padding-bottom: 40px;
     border-radius: 10px;
     padding-left:40px;
-    padding-right:40px;
+    padding-right:50%;
     padding-top: 20px;
     text-align: left;
+    max-width: 100ch; /* 100 characters per line */
   }
 
   .big-container {
 
     overflow: hidden;
-    background-color:#DCD2CC;
+    background-color:#8B8698;
     color:rgb(54, 54, 55);
     margin-top:40px;
     margin-left: 1%;
@@ -43,13 +50,15 @@ h3 {
     padding-bottom: 40px;
     border-radius: 10px;
     padding-left:40px;
-    padding-right:40px;
+    padding-right:50%;
     padding-top: 20px;
     text-align: left;
+    max-width: 100ch; /* 100 characters per line */
+
   }
 
   .header{
-    background-color:#CCAFA5;
+    background-color:#D0B8B3;
     color: rgb(54, 54, 55);
     padding: 20px;
     text-align: center; 
