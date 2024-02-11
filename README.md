@@ -10,6 +10,12 @@ The purpose of this project is to showcase my resume in a web format and also de
 - To view my LinkedIn or send me an email, hover and click over the respective titles on the header portion of the web resume
 - To print this resume as a PDF, click the Preview button in the upper right-hand corner
 
+#### Required files to run locally: 
+- Prata-Regular.ttf
+- index.css
+- index.html
+- olivia-resume-1.pdf
+
 #### Credits:
 This template for Azure was originally created by Eric Pogue and here is the original README below:
 
