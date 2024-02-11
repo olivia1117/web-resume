@@ -24,6 +24,7 @@ Initial Usage:
 - npm start
 
 Portions of this code were created with the help of ChatGPT and they are shown below: 
+
 		<div class="pdf-button">
 			<script>
 			function openPdfPreview(pdfPath) {
